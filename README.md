@@ -125,8 +125,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT:
+![qaz](https://github.com/Ranjanranjan/slot/assets/130027697/03147cf8-8167-4f4a-b461-0eab04595ae9)
 
-![qaz](https://github.com/Ranjanranjan/slot/assets/130027697/cb7b8830-ffa8-4639-a5bf-cd0a04984c7a)
 
 
 
